@@ -1,0 +1,13 @@
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\bin\Debug\Disable Enternet Ukraina.exe.config
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\bin\Debug\Disable Enternet Ukraina.exe
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\bin\Debug\Disable Enternet Ukraina.pdb
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.csprojAssemblyReference.cache
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable_Enternet_Ukraina.Form1.resources
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable_Enternet_Ukraina.Properties.Resources.resources
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.csproj.GenerateResource.cache
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.csproj.CoreCompileInputs.cache
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.exe
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.pdb
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Interop.WMPLib.dll
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable Enternet Ukraina.csproj.ResolveComReference.cache
+C:\CsApps\Disable Enternet Ukraina\Disable Enternet Ukraina\obj\Debug\Disable_Enternet_Ukraina.Form2.resources
